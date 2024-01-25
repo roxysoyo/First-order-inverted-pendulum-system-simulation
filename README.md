@@ -30,4 +30,4 @@
 
 
 
-详细过程请参靠process.pdf
+详细过程请参考process.pdf
